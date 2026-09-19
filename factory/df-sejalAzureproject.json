@@ -1,0 +1,15 @@
+{
+	"name": "df-sejalAzureproject",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "15227f88-a781-47dd-91a2-a94438968499",
+		"tenantId": "405ddc34-d660-46e5-b52d-bfd0be156bb5"
+	}
+}
